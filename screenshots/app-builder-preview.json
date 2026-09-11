@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Wiersze autorstwa Piotra Barana",
+      "hasCanvas": false,
+      "bodyTextLen": 168,
+      "bodyTextHash": "330c328d593341b6eb0e0758e652167f487f642b7bd1c2c57e791b192a7902f7",
+      "bodyTextPrefix": "KOLEKCJA LITERACKA W i e r s z e autorstwa Piotra Barana Trzynaś",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Wiersze autorstwa Piotra Barana",
+      "hasCanvas": false,
+      "bodyTextLen": 168,
+      "bodyTextHash": "330c328d593341b6eb0e0758e652167f487f642b7bd1c2c57e791b192a7902f7",
+      "bodyTextPrefix": "KOLEKCJA LITERACKA W i e r s z e autorstwa Piotra Barana Trzynaś",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/wiersze",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Wiersze — Piotr Baran",
+      "hasCanvas": false,
+      "bodyTextLen": 576,
+      "bodyTextHash": "ef742368767060893b72941054af7f153a1598d1e4911a42e34bf65de0e03755",
+      "bodyTextPrefix": "MENU XIII UTWORÓW SPIS Wiersze Piotr Baran 01 (Bez tytułu) - 1 W",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/poems-index-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Wiersze — Piotr Baran",
+      "hasCanvas": false,
+      "bodyTextLen": 485,
+      "bodyTextHash": "94531fec91957099e2c412a2ccc3c6a2ec79cf96cec5adb0c0c9ad8cbadbd6d1",
+      "bodyTextPrefix": "MENU XIII UTWORÓW SPIS Wiersze Piotr Baran 01 (Bez tytułu) - 1 W",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/poems-index-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/poems-index-smoke.json"
+}
